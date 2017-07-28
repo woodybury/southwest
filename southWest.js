@@ -1,6 +1,10 @@
+/*
+
         __|__
 \________(_)________/
       O  ' '  O
+
+*/
 
 //open url https://www.southwest.com/flight/retrieveCheckinDoc.html, enter flight info, and paste js in browser console.
 

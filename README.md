@@ -5,6 +5,7 @@ browser console javascript. be the first to check in &amp; get those good seats 
         __|__
 \________(_)________/
       O  ' '  O  
+      
 //enter flight time here Example: "7:30:00 PM"
 var flightTime = "7:30:00 PM";
 
