@@ -1,4 +1,8 @@
-//open url https://www.southwest.com/flight/retrieveCheckinDoc.html, enter flight info, and paste js in browser console
+        __|__
+\________(_)________/
+      O  ' '  O
+
+//open url https://www.southwest.com/flight/retrieveCheckinDoc.html, enter flight info, and paste js in browser console.
 
 //enter flight time here Example: "7:30:00 PM"
 var flightTime = "7:30:00 PM";
@@ -16,5 +20,5 @@ countDownMil = flightTimeMil - timeMil;
 function checkedIn () {
 	checkIn.click();
 	console.log ('Checked in first!');
-}
+};
 setTimeout(checkedIn, countDownMil);
