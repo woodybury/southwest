@@ -1,5 +1,5 @@
 # southwest checkin
-browser console javascript. be the first to check in &amp; get those good seats :)
+be the first to check in &amp; get those good seats :)
 
 ```javascript
         __|__
