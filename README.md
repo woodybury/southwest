@@ -1,5 +1,7 @@
 # southwest checkin
-be the first to check in &amp; get those good seats :)
+browser console script to be the first to check in &amp; get those good seats :)
+
+Creates a timer to automatically check in to Southwest Airline flights 
 
 ```javascript
         __|__
@@ -10,7 +12,7 @@ be the first to check in &amp; get those good seats :)
 var flightTime = "7:30:00 PM";
 
 //get the checkin button
-var checkIn = document.getElementById("submitButton");
+var checkIn = document.getElementById("form-mixin--submit-button");
 //get ms for checkin time
 var today = new Date();
 var flightDate = (today.getMonth()+1) +'/'+ today.getDate() +'/'+ today.getFullYear();

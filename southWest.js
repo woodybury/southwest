@@ -12,7 +12,7 @@
 var flightTime = "7:30:00 PM";
 
 //get the checkin button
-var checkIn = document.getElementById("submitButton");
+var checkIn = document.getElementById("form-mixin--submit-button");
 //get ms for checkin time
 var today = new Date();
 var flightDate = (today.getMonth()+1) +'/'+ today.getDate() +'/'+ today.getFullYear();
